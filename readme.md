@@ -1,0 +1,1 @@
+Created for https://stackoverflow.com/questions/70159868/how-can-i-get-django-inside-a-docker-compose-network-to-recognize-the-postgres-s
